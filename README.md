@@ -13,4 +13,4 @@ General goals for each person:
   Chris Hell is working on level design
   Khoa Hoang & Ho Kim are working on towers and enemies
   Joseph Vue working on UI
-  Maksym Yelisyeyev & Azza Laz are working on player character & github
+  Maksym Yelisyeyev & Azza Laz are developing the player character mechanics and managing the GitHub repository
